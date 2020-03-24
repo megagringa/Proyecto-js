@@ -1,9 +1,8 @@
-# Proyecto-js
-# #Mini Proyecto de práctica usando HTML/CSS/JS de Udemy
+## Proyecto-js
 
 ### [Proyecto-js](https://megagringa.github.io/Proyecto-js/index.html)
 
-Mini Proyecto para practicar HTML/CSS/JS.
+Mini Proyecto de practica usando HTML/CSS/JS.
 
 ## Lenguajes y Tecnoloías
 
