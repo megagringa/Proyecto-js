@@ -3,7 +3,7 @@
 
 ### [Proyecto-js](https://megagringa.github.io/Proyecto-js/index.html)
 
-Mini Proyecto usando HTML/CSS/JS.
+Mini Proyecto para practicar HTML/CSS/JS.
 
 ## Lenguajes y Tecnoloías
 
