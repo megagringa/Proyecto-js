@@ -12,6 +12,7 @@ Mini Proyecto usando HTML/CSS/JS.
     - CSS
     - JS
 - JQUERY
+- SLIDER
 
 El proyecto tiene como objetivo hacer una página web de 0 con ciertos items a desarrollar.
 
