@@ -7,11 +7,11 @@ Mini Proyecto usando HTML/CSS/JS.
 
 ## Lenguajes y Tecnoloías
 
--   **HTML5**:
-            - HTML
-            - CSS
-            - JS
--   JQUERY
+- **HTML5**:
+    - HTML
+    - CSS
+    - JS
+- JQUERY
 
 El proyecto tiene como objetivo hacer una página web de 0 con ciertos items a desarrollar.
 
