@@ -6,10 +6,9 @@ Mini Proyecto de practica usando HTML/CSS/JS.
 
 ## Lenguajes y Tecnoloías
 
-- **HTML5**:
-    - HTML
-    - CSS
-    - JS
+- HTML5
+- CSS3
+- JS(Javascript)
 - JQUERY
 - SLIDER
 
