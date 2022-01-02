@@ -10,7 +10,6 @@ Mini Proyecto de practica usando HTML/CSS/JS.
 - CSS3
 - JS(Javascript)
 - JQUERY
-- SLIDER
 
 El proyecto tiene como objetivo hacer una página web de 0 con ciertos items a desarrollar.
 
